@@ -1,0 +1,5 @@
+Debe poner nombres significativos a los formularios
+Debe usar nombres de variables significativos
+La solución del ejercicio contar palabras no es correcta
+
+Calificación: 1.5/3
